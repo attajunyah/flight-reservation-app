@@ -3,8 +3,7 @@
 This is a Flight Reservation App designed to help users find flights based on their preferences.
 
 ## Preview 
-
-![image info](./public/home.png)
+<img src="./public/home.png" alt="drawing" width="200"/>
 
 ## Installation
 
