@@ -15,7 +15,7 @@ This is a Flight Reservation App designed to help users find flights based on th
 ### Clone the repository
 
 ```
-git clone <repository_url>
+git clone https://github.com/attajunyah/flight-reservation-app.git
 cd flight-reservation-app
 ```
 
